@@ -1,5 +1,5 @@
 # Skillytixs-Internship-final-project
-# 🏥 MedXCare Predictive Healthcare Analytics – Final Report
+# 🏥 MedXCare Predictive Healthcare Analytics 
 
 This repository contains the final report for the **Healthcare Data Analytics & Risk Prediction Project** developed for **MedXCare Analytics**, a firm specializing in preventive healthcare strategies using Electronic Health Records (EHRs).
 
